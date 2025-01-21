@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> 原文：[Ink-Canvas-Artistry/Manual.md](https://github.com/InkCanvas/Ink-Canvas-Artistry/Manual.md)，作者引用与修改时间 2025/01/21 17:47。
+> 原文：[Ink-Canvas-Artistry/Manual.md](https://github.com/InkCanvas/Ink-Canvas-Artistry/Manual.md)，引用与修改时间 2025/01/21 17:47。
 
 特别感谢 [yuwenhui2020](https://github.com/yuwenhui2020) 为 ` Ink Canvas 使用说明` 做出的贡献！
 
