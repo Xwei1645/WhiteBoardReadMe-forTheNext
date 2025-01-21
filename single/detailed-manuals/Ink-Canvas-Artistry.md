@@ -1,14 +1,19 @@
 > [!IMPORTANT]
-> 原文：[Ink-Canvas-Artistry/Manual.md](https://github.com/InkCanvas/Ink-Canvas-Artistry/Manual.md)，引用时间 2025/01/21 17:47。
+> 原文：[Ink-Canvas-Artistry/Manual.md](https://github.com/InkCanvas/Ink-Canvas-Artistry/Manual.md)，作者引用与修改时间 2025/01/21 17:47。
+
+特别感谢 [yuwenhui2020](https://github.com/yuwenhui2020) 为 ` Ink Canvas 使用说明` 做出的贡献！
 
 # Ink Canvas 使用说明
+
+## 带图标的简易说明
+
+![ICA-manual-with-icons](../../images/ICA-manual-with-icons.png)
+
 
 ## 目录
 [一、介绍](#intro)  
 [二、用法](#usage)  
 [三、技巧](#skill)  
-[四、感谢](#thank)  
-[五、图片](#pictu)
 ## Ink Canvas 是什么? <span id='intro'></span>
 Ink Canvas 画板是一款轻量级画板软件，其针对希沃白板设备进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升5-10 倍），系统资源占用更小，使用体验更佳。  
 
@@ -93,12 +98,3 @@ ppt模式下打开的内置画板和正常打开的画板一样的，可能需�
 4. 在任意时刻，点击“黑板”按钮即可进入黑板。
 5. 空间不够写时，可以双指向上滑动来挪动原有墨迹，也可以双指缩放以腾出空间。
 6. 找不到“橡皮”按钮？笔反过来就是橡皮了！如果觉得翻转笔比较麻烦，可以直接用手指或倾斜笔尖精确擦除小范围墨迹。大范围擦除可以通过并拢手指使用手掌或手背，甚至黑板擦、抹布来完成。建议使用手背而非手掌，因为手掌上汗较多，在屏幕上滑动时摩擦较大，且较大的接触面积可能导致误识别为多指（多指缩放）的问题。
-
-## 感谢 <span id='thank'></span>
-特别感谢 [yuwenhui2020](https://github.com/yuwenhui2020) 为 ` Ink Canvas 使用说明` 做出的贡献！
-
-## 图片版说明<span id='pictu'></span>
-
-此为带图标的简易说明  
-![image](image1.png)  
-图片预览https://yuwenhui2020.github.io/ink/BHH~7AJ6N7OMLT095LO(LQJ.png
