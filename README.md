@@ -11,3 +11,6 @@ WhiteBoardReadMe-forTheNext 是**基于 [Awesome-Iwb](https://github.com/Awesome
 - 对于单个软件更详细的说明文档，请提交至 `single/detailed-manual` 文件夹，仍以软件名命名；
 - 对于仅适用于个别品牌的一体机之说明文档，请提交至 `brands` 文件夹，以品牌命名，如 `seewo.md`；
 - 为保证阅读质量，WhiteBoardReadMe-forTheNext 将作为离线文件(s)使用。请将图片(s)一并提交至 `images` 文件夹,并尽量不要使用外部链接引用的图片（尤其是引用自 GitHub 的）。
+
+> [!IMPORTANT]
+> 与 [Awesome-Iwb](https://github.com/Awesome-Iwb/Awesome-Iwb) 不同的是，WhiteBoardReadMe-forTheNext 是对于已经安装了相关软件的（且有使用痕迹的）电子白板之初次使用者，因此请不要添加“如何安装”等内容。
