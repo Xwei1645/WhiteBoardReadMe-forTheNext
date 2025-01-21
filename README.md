@@ -8,6 +8,6 @@ WhiteBoardReadMe-forTheNext 是**基于 [Awesome-Iwb](https://github.com/Awesome
 我（们）非常欢迎和感谢您的加入。
 为了规范相关文档，请仔细阅读以下几点要求：
 - 对于单个软件的说明，请提交至 `single` 文件夹，以软件名命名，如 `ClassIsland.md`；
-- 对于单个软件更详细的说明文档，请提交至 `single/detailed-manual` 文件夹；
-- 对于仅适用于个别品牌的一体机之说明文档，请提交至根目录，以品牌命名，如 `seewo.md`；
-- 为保证阅读质量，WhiteBoardReadMe-forTheNext 将作为离线文件(s)使用。请将使用外部链接引用的图片（尤其是引用自 GitHub 的）一并提交至 `images` 文件夹。
+- 对于单个软件更详细的说明文档，请提交至 `single/detailed-manual` 文件夹，仍以软件名命名；
+- 对于仅适用于个别品牌的一体机之说明文档，请提交至 `brands` 文件夹，以品牌命名，如 `seewo.md`；
+- 为保证阅读质量，WhiteBoardReadMe-forTheNext 将作为离线文件(s)使用。请将图片(s)一并提交至 `images` 文件夹,并尽量不要使用外部链接引用的图片（尤其是引用自 GitHub 的）。
